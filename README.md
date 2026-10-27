@@ -1,159 +1,119 @@
-<table>
-  <tr>
-    <td width="75%" valign="top">
+<img src="assets/avatar.png" alt="Carlos" width="180" align="right" />
 
 # Hi, I'm Carlos 👋
 
-**@cmoreyra09**
+**Data Engineer** · [@cmoreyra09](https://github.com/cmoreyra09)
 
-### Data Engineer
+I love turning messy data into something people can actually trust. My thing is designing **robust data architectures**: pipelines that don't break at 3 a.m., models that scale, and integrations that just work.
 
-Data Integration &nbsp;•&nbsp; Automation &nbsp;•&nbsp; Analytics
+Always curious, always tinkering. If there's a new tool in the data world, I'm probably already trying it out. ☕
 
-I build data projects and keep learning new technologies.
+Data Integration &nbsp;·&nbsp; Pipelines &nbsp;·&nbsp; Automation &nbsp;·&nbsp; Analytics
 
-</td>
-    <td width="25%" align="center" valign="middle">
-      <img src="assets/avatar.png" alt="Carlos" width="170" />
-    </td>
-  </tr>
-</table>
+<br clear="right" />
 
 ## <img src="https://api.iconify.design/mdi/code-tags.svg?color=%2358a6ff" width="26" height="26" align="top" alt="" /> Languages I've Learned
 
-<table>
-  <tr>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" /><br />Python</td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48" height="48" alt="Java" /><br />Java</td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" /><br />C#</td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" /><br />C++</td>
-    <td align="center" width="110"><img src="https://cdn.simpleicons.org/rust/black/white" width="48" height="48" alt="Rust" /><br />Rust</td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /><br />JavaScript</td>
-  </tr>
-</table>
+<p>
+  <img src="assets/icons/python.svg" width="84" alt="Python" title="Python" />
+  <img src="assets/icons/java.svg" width="84" alt="Java" title="Java" />
+  <img src="assets/icons/csharp.svg" width="84" alt="C#" title="C#" />
+  <img src="assets/icons/cpp.svg" width="84" alt="C++" title="C++" />
+  <img src="assets/icons/rust.svg" width="84" alt="Rust" title="Rust" />
+  <img src="assets/icons/javascript.svg" width="84" alt="JavaScript" title="JavaScript" />
+</p>
 
 ## <img src="https://api.iconify.design/mdi/laptop.svg?color=%2358a6ff" width="26" height="26" align="top" alt="" /> My Work Environment
 
-<table>
-  <tr>
-    <th colspan="3" align="left">Editor &amp; Terminal</th>
-    <th colspan="3" align="left">Operating Systems</th>
-  </tr>
-  <tr>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="48" height="48" alt="Neovim" /><br />Neovim</td>
-    <td align="center" width="110"><img src="https://cdn.simpleicons.org/alacritty/F46D01" width="48" height="48" alt="Alacritty" /><br />Alacritty</td>
-    <td align="center" width="110"><img src="https://cdn.simpleicons.org/tmux/1BB91F" width="48" height="48" alt="tmux" /><br />tmux</td>
-    <td align="center" width="110"><img src="https://cdn.simpleicons.org/apple/black/white" width="48" height="48" alt="macOS" /><br />macOS</td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="48" height="48" alt="Windows" /><br />Windows</td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" /><br />Linux</td>
-  </tr>
-</table>
+**Editor & Terminal**
 
-**Organization &amp; Documentation**
+<p>
+  <img src="assets/icons/neovim.svg" width="84" alt="Neovim" title="Neovim" />
+  <img src="assets/icons/alacritty.svg" width="84" alt="Alacritty" title="Alacritty" />
+  <img src="assets/icons/tmux.svg" width="84" alt="tmux" title="tmux" />
+</p>
 
-<table>
-  <tr>
-    <td align="center" width="110"><img src="https://cdn.simpleicons.org/notion/black/white" width="48" height="48" alt="Notion" /><br />Notion</td>
-    <td>Notes and learning organization.</td>
-  </tr>
-</table>
+**Operating Systems**
+
+<p>
+  <img src="assets/icons/macos.svg" width="84" alt="macOS" title="macOS" />
+  <img src="assets/icons/windows.svg" width="84" alt="Windows" title="Windows" />
+  <img src="assets/icons/linux.svg" width="84" alt="Linux" title="Linux" />
+</p>
+
+**Organization & Documentation**
+
+<p>
+  <img src="assets/icons/notion.svg" width="84" alt="Notion" title="Notion" />
+</p>
 
 ## <img src="https://api.iconify.design/mdi/database.svg?color=%2358a6ff" width="26" height="26" align="top" alt="" /> Databases
 
-<table>
-  <tr>
-    <th colspan="4" align="left">Relational</th>
-    <th align="left">Administration</th>
-  </tr>
-  <tr>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48" alt="SQL Server" /><br />SQL Server</td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" /><br />PostgreSQL</td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" /><br />MySQL</td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite" /><br />SQLite</td>
-    <td align="center" width="110"><img src="https://api.iconify.design/selfhst/pgadmin.svg" width="48" height="48" alt="pgAdmin" /><br />pgAdmin</td>
-  </tr>
-</table>
+**Relational**
 
-**NoSQL &nbsp;•&nbsp; Up Next**<br />
-<sub>My learning path</sub>
+<p>
+  <img src="assets/icons/sqlserver.svg" width="84" alt="SQL Server" title="SQL Server" />
+  <img src="assets/icons/postgresql.svg" width="84" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="assets/icons/mysql.svg" width="84" alt="MySQL" title="MySQL" />
+  <img src="assets/icons/sqlite.svg" width="84" alt="SQLite" title="SQLite" />
+</p>
 
-<table>
-  <tr>
-    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" /><br />MongoDB<br /><sub>Document</sub></td>
-    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" /><br />Redis<br /><sub>Key-value</sub></td>
-    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original.svg" width="48" height="48" alt="Cassandra" /><br />Cassandra<br /><sub>Wide-column</sub></td>
-    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" width="48" height="48" alt="Neo4j" /><br />Neo4j<br /><sub>Graph</sub></td>
-  </tr>
-</table>
+**Administration**
 
-## <img src="https://api.iconify.design/mdi/cog.svg?color=%2358a6ff" width="26" height="26" align="top" alt="" /> Frameworks &amp; APIs
+<p>
+  <img src="assets/icons/ssms.svg" width="84" alt="SQL Server Management Studio" title="SQL Server Management Studio" />
+</p>
 
-<table>
-  <tr>
-    <td align="center" width="110"><img src="https://cdn.simpleicons.org/django/092E20/44B78B" width="48" height="48" alt="Django" /><br />Django</td>
-    <td align="center" width="110"><img src="https://cdn.simpleicons.org/bruno/F4A259" width="48" height="48" alt="Bruno" /><br />Bruno</td>
-    <td align="center" width="110"><img src="https://cdn.simpleicons.org/json/black/white" width="48" height="48" alt="REST APIs" /><br />REST APIs</td>
-  </tr>
-</table>
+**NoSQL** · <sub>up next on my learning path</sub>
 
-## <img src="https://api.iconify.design/mdi/folder-cog.svg?color=%2358a6ff" width="26" height="26" align="top" alt="" /> Orchestration &amp; Containers
+<p>
+  <img src="assets/icons/mongodb.svg" width="84" alt="MongoDB" title="MongoDB" />
+</p>
 
-<table>
-  <tr>
-    <th colspan="2" align="left">Orchestration</th>
-    <th align="left">Containers</th>
-  </tr>
-  <tr>
-    <td align="center" width="110"><img src="https://api.iconify.design/thesvg-color/prefect.svg" width="48" height="48" alt="Prefect" /><br />Prefect</td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width="48" height="48" alt="Airflow" /><br />Airflow</td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" /><br />Docker</td>
-  </tr>
-</table>
+## <img src="https://api.iconify.design/mdi/cog.svg?color=%2358a6ff" width="26" height="26" align="top" alt="" /> Frameworks & APIs
 
-## <img src="https://api.iconify.design/mdi/cloud-outline.svg?color=%2358a6ff" width="26" height="26" align="top" alt="" /> Cloud &amp; Data Platforms
+<p>
+  <img src="assets/icons/django.svg" width="84" alt="Django" title="Django" />
+  <img src="assets/icons/bruno.svg" width="84" alt="Bruno" title="Bruno" />
+  <img src="assets/icons/rest.svg" width="84" alt="REST APIs" title="REST APIs" />
+</p>
 
-<table>
-  <tr>
-    <th colspan="3" align="left">Cloud Platforms</th>
-    <th align="left">Data Platforms</th>
-  </tr>
-  <tr>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain.svg" width="48" height="48" alt="AWS" /><br />AWS</td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Google Cloud" /><br />Google Cloud</td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="48" height="48" alt="Azure" /><br />Azure</td>
-    <td align="center" width="110"><img src="https://cdn.simpleicons.org/databricks/FF3621" width="48" height="48" alt="Databricks" /><br />Databricks</td>
-  </tr>
-</table>
+## <img src="https://api.iconify.design/mdi/folder-cog.svg?color=%2358a6ff" width="26" height="26" align="top" alt="" /> Orchestration & Containers
 
-## <img src="https://api.iconify.design/mdi/chart-bar.svg?color=%2358a6ff" width="26" height="26" align="top" alt="" /> Analytics &amp; Visualization
+<p>
+  <img src="assets/icons/prefect.svg" width="84" alt="Prefect" title="Prefect" />
+  <img src="assets/icons/airflow.svg" width="84" alt="Airflow" title="Airflow" />
+  <img src="assets/icons/docker.svg" width="84" alt="Docker" title="Docker" />
+</p>
 
-<table>
-  <tr>
-    <td align="center" width="110"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" alt="Power BI" /></td>
-    <td><b>Power BI</b><br />Data exploration and dashboards.</td>
-  </tr>
-</table>
+## <img src="https://api.iconify.design/mdi/cloud-outline.svg?color=%2358a6ff" width="26" height="26" align="top" alt="" /> Cloud & Data Platforms
 
-## <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="24" height="24" alt="LeetCode" /> Algorithm Practice • LeetCode
+<p>
+  <img src="assets/icons/aws.svg" width="84" alt="AWS" title="AWS" />
+  <img src="assets/icons/gcp.svg" width="84" alt="Google Cloud" title="Google Cloud" />
+  <img src="assets/icons/azure.svg" width="84" alt="Azure" title="Azure" />
+  <img src="assets/icons/databricks.svg" width="84" alt="Databricks" title="Databricks" />
+</p>
 
-I practice algorithms and data structures, and document what I learn from each exercise.
+## <img src="https://api.iconify.design/mdi/chart-bar.svg?color=%2358a6ff" width="26" height="26" align="top" alt="" /> Analytics & Visualization
 
-Arrays &nbsp;•&nbsp; Strings &nbsp;•&nbsp; Hash maps &nbsp;•&nbsp; Recursion
+<p>
+  <img src="assets/icons/powerbi.svg" width="84" alt="Power BI" title="Power BI" />
+</p>
 
-**Solved Problems**
+## <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="26" height="26" align="top" alt="" /> Algorithm Practice
 
-| Problem | Topic | Language | Solution |
-| :--- | :--- | :--- | :--- |
-| <sub>Solutions will be added here.</sub> | | | |
+I sharpen my problem-solving on **LeetCode**: arrays, strings, hash maps, recursion. I document what I learn from every exercise along the way.
 
 ## <img src="https://api.iconify.design/mdi/folder.svg?color=%2358a6ff" width="26" height="26" align="top" alt="" /> Projects
 
-| Project | Description | Technologies |
-| :--- | :--- | :--- |
-| **[API Integrations](https://github.com/cmoreyra09/projects-api)** | Pipelines by source and SQL queries. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="20" height="20" alt="Python" /> Python · SQL |
-| **[Freshservice API](https://github.com/cmoreyra09/Fresh-Service---Datamart)** | Requests and endpoint documentation. | <img src="https://cdn.simpleicons.org/bruno/F4A259" width="20" height="20" alt="Bruno" /> Bruno · REST API |
+- **[API Integrations](https://github.com/cmoreyra09/projects-api)**: Python pipelines organized by source, plus SQL queries.
+- **[Freshservice API](https://github.com/cmoreyra09/Fresh-Service---Datamart)**: Bruno requests and endpoint documentation for the Freshservice REST API.
 
 ## <img src="https://api.iconify.design/mdi/book-open-variant.svg?color=%2358a6ff" width="26" height="26" align="top" alt="" /> Documentation
 
-- **[Freshservice API Guide](https://github.com/cmoreyra09/Fresh-Service---Datamart)**<br />
-  Endpoints, pagination, and usage examples.
+- **[Freshservice API Guide](https://github.com/cmoreyra09/Fresh-Service---Datamart)**: endpoints, pagination, and usage examples.
+
+<br />
+
+<p align="center"><sub>Thanks for stopping by! Feel free to explore the repos. ✨</sub></p>
