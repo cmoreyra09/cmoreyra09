@@ -34,7 +34,6 @@ Aquí reúno proyectos de integración de APIs, extracción de datos con Python 
 ## Bases de datos y APIs 🗄️
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" title="SQL Server" width="48" height="48" />&nbsp;&nbsp;
-
 <img src="https://cdn.simpleicons.org/bruno/F4A259" alt="Bruno" title="Bruno" width="48" height="48" />&nbsp;&nbsp;
 
 SQL Server · T-SQL · Bruno
