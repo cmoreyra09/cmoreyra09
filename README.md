@@ -25,12 +25,13 @@ Data Integration &nbsp;·&nbsp; Pipelines &nbsp;·&nbsp; Automation &nbsp;·&nbs
 
 ## <img src="https://api.iconify.design/mdi/laptop.svg?color=%2358a6ff" width="26" height="26" align="top" alt="" /> My Work Environment
 
-**Editor & Terminal**
+**IDE**
 
 <p>
   <img src="assets/icons/neovim.svg" width="84" alt="Neovim" title="Neovim" />
   <img src="assets/icons/alacritty.svg" width="84" alt="Alacritty" title="Alacritty" />
   <img src="assets/icons/tmux.svg" width="84" alt="tmux" title="tmux" />
+  <img src="assets/icons/visualstudio.svg" width="84" alt="Visual Studio 2019" title="Visual Studio 2019" />
 </p>
 
 **Operating Systems**
@@ -78,11 +79,33 @@ Data Integration &nbsp;·&nbsp; Pipelines &nbsp;·&nbsp; Automation &nbsp;·&nbs
   <img src="assets/icons/rest.svg" width="84" alt="REST APIs" title="REST APIs" />
 </p>
 
-## <img src="https://api.iconify.design/mdi/folder-cog.svg?color=%2358a6ff" width="26" height="26" align="top" alt="" /> Orchestration & Containers
+## <img src="https://api.iconify.design/mdi/lightning-bolt.svg?color=%2358a6ff" width="26" height="26" align="top" alt="" /> Big Data & Processing
+
+<p>
+  <img src="assets/icons/spark.svg" width="84" alt="Apache Spark" title="Apache Spark" />
+  <img src="assets/icons/pyspark.svg" width="84" alt="PySpark" title="PySpark" />
+  <img src="assets/icons/hadoop.svg" width="84" alt="Apache Hadoop" title="Apache Hadoop" />
+</p>
+
+## <img src="https://api.iconify.design/mdi/folder-cog.svg?color=%2358a6ff" width="26" height="26" align="top" alt="" /> Orchestration, ETL & Containers
+
+**Orchestration**
 
 <p>
   <img src="assets/icons/prefect.svg" width="84" alt="Prefect" title="Prefect" />
   <img src="assets/icons/airflow.svg" width="84" alt="Airflow" title="Airflow" />
+</p>
+
+**ETL & Data Integration**
+
+<p>
+  <img src="assets/icons/adf.svg" width="84" alt="Azure Data Factory" title="Azure Data Factory" />
+  <img src="assets/icons/ssis.svg" width="84" alt="SQL Server Integration Services" title="SQL Server Integration Services" />
+</p>
+
+**Containers**
+
+<p>
   <img src="assets/icons/docker.svg" width="84" alt="Docker" title="Docker" />
 </p>
 
