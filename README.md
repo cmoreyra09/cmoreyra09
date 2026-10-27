@@ -1,5 +1,3 @@
-<img src="assets/avatar.png" alt="Carlos" width="180" align="right" />
-
 # Hi, I'm Carlos 👋
 
 **Data Engineer** ·
@@ -9,8 +7,6 @@ I love turning messy data into something people can actually trust. My thing is 
 Always curious, always tinkering. If there's a new tool in the data world, I'm probably already trying it out. ☕
 
 Data Integration &nbsp;·&nbsp; Pipelines &nbsp;·&nbsp; Automation &nbsp;·&nbsp; Analytics
-
-<br clear="right" />
 
 ## <img src="https://api.iconify.design/mdi/code-tags.svg?color=%2358a6ff" width="26" height="26" align="top" alt="" /> Languages I've Learned
 
