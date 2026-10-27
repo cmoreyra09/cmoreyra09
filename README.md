@@ -73,8 +73,16 @@ Data Integration &nbsp;·&nbsp; Pipelines &nbsp;·&nbsp; Automation &nbsp;·&nbs
 
 ## <img src="https://api.iconify.design/mdi/cog.svg?color=%2358a6ff" width="26" height="26" align="top" alt="" /> Frameworks & APIs
 
+**Frameworks**
+
 <p>
   <img src="assets/icons/django.svg" width="84" alt="Django" title="Django" />
+</p>
+
+**API Testing & Clients**
+
+<p>
+  <img src="assets/icons/postman.svg" width="84" alt="Postman" title="Postman" />
   <img src="assets/icons/bruno.svg" width="84" alt="Bruno" title="Bruno" />
   <img src="assets/icons/rest.svg" width="84" alt="REST APIs" title="REST APIs" />
 </p>
