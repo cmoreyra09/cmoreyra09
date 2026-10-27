@@ -18,24 +18,26 @@ Aquí reúno proyectos de integración de APIs, extracción de datos con Python 
 
 ## Lenguajes que estoy aprendiendo 🌱
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="48" height="48" />&nbsp;&nbsp;
 
 ## Editor y terminal 💻
 
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![Alacritty](https://img.shields.io/badge/Alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white)
-![tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="Neovim" title="Neovim" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/alacritty/F46D01" alt="Alacritty" title="Alacritty" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/tmux/1BB91F" alt="tmux" title="tmux" width="48" height="48" />&nbsp;&nbsp;
 
 ## Sistemas operativos 🖥️
 
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge)
+<img src="https://cdn.simpleicons.org/apple/888888" alt="macOS" title="macOS" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="Windows" title="Windows" width="48" height="48" />&nbsp;&nbsp;
 
 ## Bases de datos y APIs 🗄️
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
-![T-SQL](https://img.shields.io/badge/T--SQL-334155?style=for-the-badge)
-![Bruno](https://img.shields.io/badge/Bruno-F4A259?style=for-the-badge&logo=bruno&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" title="SQL Server" width="48" height="48" />&nbsp;&nbsp;
+
+<img src="https://cdn.simpleicons.org/bruno/F4A259" alt="Bruno" title="Bruno" width="48" height="48" />&nbsp;&nbsp;
+
+SQL Server · T-SQL · Bruno
 
 ## Proyectos para explorar
 
