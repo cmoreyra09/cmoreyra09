@@ -2,7 +2,7 @@
 
 # Hi, I'm Carlos 👋
 
-**Data Engineer** · [@cmoreyra09](https://github.com/cmoreyra09)
+**Data Engineer** ·
 
 I love turning messy data into something people can actually trust. My thing is designing **robust data architectures**: pipelines that don't break at 3 a.m., models that scale, and integrations that just work.
 
